@@ -1,2 +1,2 @@
-# P1_POO
-Prova N1 de programação orientada ao objeto
+Matheus Lopes Trentino 2027
+Rafael Lima Papa 2011
